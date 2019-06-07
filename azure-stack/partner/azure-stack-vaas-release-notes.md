@@ -26,6 +26,12 @@ This article has the release notes for Azure Stack Validation as a Service.
 
 ## Version 4.0.5
 
+2019 June 07
+
+THe Cloud Simulation Engine in the Package Validation workflow has been updated to expedite validation time:
+Run time: Reduced to 6 hours 
+Version: 5.1.13.0 -> 5.1.22.0
+
 2019 January 17
 
 - Disk Identification Test updated to address storage pool inconsistencies. Version: 5.1.14.0 -> 5.1.15.0
